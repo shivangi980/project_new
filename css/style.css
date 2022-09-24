@@ -1,0 +1,33 @@
+    .overlay
+    {
+        background: linear-gradient(to right, rgba(209, 114, 196, 0.7), rgba(192, 68, 99, 0.7)), url("images/hospital.jpg") no-repeat fixed;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        color: #FFFFFF;
+        top:0%;
+        right: 0%;
+        left: 0%;
+   }   
+   /* .overlay 
+   {
+        background: rgba(50, 70, 80, 0.7);
+        overflow: hidden;
+        height: 100%;
+   } */
+    .td-none
+    {
+        text-decoration: none;
+    }
+    .bg-main
+    {
+        background: linear-gradient(to right, rgba(209, 114, 196, 0.7), rgba(192, 68, 99, 0.7)), url("images/hospital.jpg") no-repeat fixed;  
+    }
+    .text-main
+    {
+        color: #6963ff;
+    }
+    .col-lg-12
+    {
+        padding: 0%;
+    }
