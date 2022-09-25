@@ -22,7 +22,22 @@
                         </ul>
               </div>
           </div>
-            <div class="col-lg-12 header p-0 bg-transparent-custom">
+            <div class="col-lg-12 position-relative p-0">
+              <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img src="images/banner.jpg" class="d-block w-100 " height="500" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                      <img src="images/staff.png" class="d-block w-100" height="500" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                      <img src="images/surgery.jpg" class="d-block w-100" height="500" alt="...">
+                  </div>
+              </div>
+            </div>
+            <div class="overlay position-absolute"></div>
+            <div class="w-100  header p-0 bg-transparent-custom">
             <div class="container">
                 <nav class="navbar navbar-expand-lg bg-transparent shadow-lg p-0 b-10">
                     <div class="container-fluid justify-content-between"> 
@@ -62,6 +77,7 @@
                   </nav>
                   </div>
             </div>
+<<<<<<< Updated upstream
             <div class="col-lg-12 position-relative p-0">
               <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
                   <div class="carousel-inner">
@@ -77,6 +93,8 @@
               </div>
             </div>
             <div class="overlay position-absolute"></div>
+=======
+>>>>>>> Stashed changes
         </div>
         <div class="departments position-absolute">
             <div class="container">
