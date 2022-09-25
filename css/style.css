@@ -108,3 +108,7 @@
     {
         color: #FFFFFF !important;
     }
+    .text-justify
+    {
+        text-align: justify;
+    }
