@@ -77,7 +77,6 @@
                   </nav>
                   </div>
             </div>
-<<<<<<< Updated upstream
             <div class="col-lg-12 position-relative p-0">
               <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
                   <div class="carousel-inner">
@@ -93,10 +92,8 @@
               </div>
             </div>
             <div class="overlay position-absolute"></div>
-=======
->>>>>>> Stashed changes
         </div>
-        <div class="departments position-absolute">
+        <div class="departments position-absolute col-lg-12">
             <div class="container">
               <div class="d-flex justify-content-evenly" id="departments">
                   <div class="ms-2 card">
@@ -133,6 +130,16 @@
                   </div>
                 </div>
                 </div>
+          </div>
+            <div class="col-lg-12">
+              <div class="row">
+                <div class="col-lg-12 text-center">
+                  <h2>About Us</h2>
+                </div>
+                <div class="col-lg-6 ">
+                <img src="images/hospital.jpg" class="img-fluid" alt="...">
+                </div>
+              </div>
             </div>
             </div>
 </div>
