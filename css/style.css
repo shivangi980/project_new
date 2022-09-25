@@ -29,7 +29,7 @@
     }
     .departments
     {
-        top:478px;
+        top:477px;
     }
 
     .slick-slide{
@@ -53,18 +53,58 @@
         z-index: 999;
         top:0%;
     }
-    .navbar ul li a
+    .navbar-nav li a
+    {
+        color: #FFFFFF;
+    }
+
+    .navbar-nav .active
     {
         color: #FFFFFF !important;
     }
     
     .btn-main
     {
-        border-color:#6963ff;
-        /* background-color: #6963ff; */
-        color: #6963ff !important;
+        background-color: #6963ff;
+        color: #FFFFFF !important;
+    }
+    .btn-main:hover
+    {
+        background-color: yellow !important;
+        color: black !important;
     }
     .b-10
     {
         backdrop-filter: blur(10px);
+    }
+    .about-us
+    {
+        margin-top: 154px;
+    }
+    .slick-prev:before, .slick-next:before {
+        font-family: 'slick';
+        font-size: 20px;
+        line-height: 1;
+        opacity: .75;
+        padding: 10px;
+        border-radius: 10px;
+        color: white;
+        background: linear-gradient(-225deg, rgba(72, 1, 255, 0.7) 0%, rgba(121, 24, 242, 0.7) 48%, rgba(172, 50, 228, 0.7) 100%);
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        margin-left: -10px;
+    }
+    .dropdown-menu li a
+    {
+        color: black !important;
+    }
+    .footer-parent
+    {
+        background-color: #373346 !important;
+    }
+    .footer-parent footer ul li a,
+    .footer-parent footer h5,
+    .footer-parent footer p
+    {
+        color: #FFFFFF !important;
     }

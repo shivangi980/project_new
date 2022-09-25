@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $("#departments").slick({
+        infinite: true,
         slidesToShow: 3,
-        dots:true,
-        centerMode: true,
+        slidesToScroll: 3   
     })
 });

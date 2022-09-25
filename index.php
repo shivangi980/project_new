@@ -22,7 +22,7 @@
                         </ul>
               </div>
           </div>
-            <div class="col-lg-12 position-relative p-0">
+          <div class="col-lg-12 position-relative p-0">
               <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -53,19 +53,27 @@
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
+                            <a class="nav-link" href="#">About Us</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                          </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                              Dropdown
+                            </a>
+                            <ul class="dropdown-menu">
+                              <li><a class="dropdown-item" href="#">Action</a></li>
+                              <li><a class="dropdown-item" href="#">Another action</a></li>
+                              <li><hr class="dropdown-divider"></li>
+                              <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
                           </li>
                           <li class="nav-item">
                             <a class="nav-link" href="#">Link</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
+                            <a class="nav-link btn btn-main" href="#">Online Appointment</a>
                           </li>
                         </ul>
                         <!-- <form class="d-flex" role="search">
@@ -77,22 +85,8 @@
                   </nav>
                   </div>
             </div>
-            <div class="col-lg-12 position-relative p-0">
-              <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img src="images/banner.jpg" class="d-block w-100 " height="500" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="images/staff.png" class="d-block w-100" height="500" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="images/surgery.jpg" class="d-block w-100" height="500" alt="...">
-                  </div>
-              </div>
-            </div>
             <div class="overlay position-absolute"></div>
-        </div>
+          </div>
         <div class="departments position-absolute col-lg-12">
             <div class="container">
               <div class="d-flex justify-content-evenly" id="departments">
@@ -131,17 +125,82 @@
                 </div>
                 </div>
           </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12 about-us">
               <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-12 text-center my-3">
                   <h2>About Us</h2>
                 </div>
-                <div class="col-lg-6 ">
-                <img src="images/hospital.jpg" class="img-fluid" alt="...">
+                <div class="col-lg-6">
+                  <img src="images/hospital.jpg" class="img-fluid" alt="...">
+                </div>
+                <div class="col-lg-6 my-auto">
+                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
                 </div>
               </div>
             </div>
+            <div class="col-lg-12 footer-parent mt-3">
+              <div class="container">
+                <footer class="py-5">
+                  <div class="row">
+                    <div class="col-6 col-md-2 mb-3">
+                      <h5>Section</h5>
+                      <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                      </ul>
+                    </div>
+              
+                    <div class="col-6 col-md-2 mb-3">
+                      <h5>Section</h5>
+                      <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                      </ul>
+                    </div>
+              
+                    <div class="col-6 col-md-2 mb-3">
+                      <h5>Section</h5>
+                      <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+                      </ul>
+                    </div>
+              
+                    <div class="col-md-5 offset-md-1 mb-3">
+                      <form>
+                        <h5>Subscribe to our newsletter</h5>
+                        <p>Monthly digest of what's new and exciting from us.</p>
+                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                          <label for="newsletter1" class="visually-hidden">Email address</label>
+                          <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
+                          <button class="btn btn-primary" type="button">Subscribe</button>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+              
+                  <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+                    <p>© 2022 Company, Inc. All rights reserved.</p>
+                    <ul class="list-unstyled d-flex">
+                      <li class="ms-3"><a class="link-dark" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"></use></svg></a></li>
+                      <li class="ms-3"><a class="link-dark" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"></use></svg></a></li>
+                      <li class="ms-3"><a class="link-dark" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"></use></svg></a></li>
+                    </ul>
+                  </div>
+                </footer>
+              </div>
             </div>
+    </div>
 </div>
 <script src="js/jquery.min.js"></script>
 <script src="slider/js/jquery.flexslider.js"></script>
