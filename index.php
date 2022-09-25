@@ -125,6 +125,7 @@
                 </div>
                 </div>
           </div>
+          <!-- about us start -->
             <div class="col-lg-12 about-us">
               <div class="row">
                 <div class="col-lg-12 text-center my-3">
@@ -139,6 +140,56 @@
                 </div>
               </div>
             </div>
+            <!-- about us end-->
+            <!-- doctor profiles start  -->
+            <div class="col-lg-12">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <div class="card" style="width: 18rem;">
+                      <img src="..." class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4">
+                      <div class="card" style="width: 18rem;">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                      </div>
+                      <div class="col-lg-4">
+                        <div class="card" style="width: 18rem;">
+                          <img src="..." class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                          </div>
+                        </div>
+                        <div class="col-lg-4">
+                          <div class="card" style="width: 18rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            <!-- doctor profiles end -->
+          <!-- footer start -->
             <div class="col-lg-12 footer-parent mt-3">
               <div class="container">
                 <footer class="py-5">
@@ -200,6 +251,7 @@
                 </footer>
               </div>
             </div>
+            <!-- footer end -->
     </div>
 </div>
 <script src="js/jquery.min.js"></script>
