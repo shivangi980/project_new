@@ -76,7 +76,7 @@
                   </div>
               </div>
             </div>
-        <div class="overlay position-absolute"></div>
+            <div class="overlay position-absolute"></div>
         </div>
         <div class="departments position-absolute">
             <div class="container">
