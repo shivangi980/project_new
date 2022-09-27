@@ -4,4 +4,13 @@ $(document).ready(function(){
         slidesToShow: 3,
         slidesToScroll: 3   
     })
+    $(".services i").mouseenter(function(){
+       $(this).parent().parent().find("p").show();
+    }
+    )
+    $(".services i").mouseleave(function(){
+        $(this).parent().parent().find("p").hide();
+     }
+     )
 });
+

@@ -112,3 +112,25 @@
     {
         text-align: justify;
     }
+    .slick-track
+{
+    display: flex !important;
+}
+
+.slick-slide
+{
+    height: inherit !important;
+}
+.services p 
+{
+    display: none;
+}
+.services i 
+{
+    padding: 18px;
+    background-color: transparent;
+    border: 1px solid white;
+    /* display: inline-block;
+    width: 15%;*/
+    border-radius: 45px ;
+}

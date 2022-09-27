@@ -56,7 +56,7 @@
                             <a class="nav-link" href="#">About Us</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="#">Contact Us</a>
                           </li>
                           <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -70,7 +70,7 @@
                             </ul>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
+                            <a class="nav-link" href="#">Services</a>
                           </li>
                           <li class="nav-item">
                             <a class="nav-link btn btn-main" href="#">Online Appointment</a>
@@ -147,43 +147,43 @@
             </div>
             <div class="col-lg-12 my-3">
               <div class="container">
-                <div class="row" id="doctor_profile">
-                  <div class="col-lg-4">
+                <div class="d-flex" id="doctor_profile">
+                  <div class="d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                      <img src="images/surgery.jpg" class="card-img-top" alt="...">
+                      <img src="images/heartdoctor.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Dr. Rohan Sharma</h5>
+                        <p class="card-text">Heart Specialist</p>
                         <a href="#" class="btn btn-primary">Go somewhere</a>
                       </div>
                     </div>
                   </div>
-                    <div class="col-lg-4">
+                    <div class="d-flex justify-content-center">
                       <div class="card" style="width: 18rem;">
-                        <img src="images/surgery.jpg" class="card-img-top" alt="...">
+                        <img src="images/dentist.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <h5 class="card-title">Dr. Radhika</h5>
+                          <p class="card-text">Dentist</p>
                           <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                       </div>
                       </div>
-                      <div class="col-lg-4">
+                      <div class="d-flex justify-content-center">
                         <div class="card" style="width: 18rem;">
-                          <img src="images/surgery.jpg" class="card-img-top" alt="...">
+                          <img src="images/orthologist.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title">Dr. Ishan</h5>
+                            <p class="card-text">Orthologist</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                           </div>
                         </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="d-flex justify-content-center">
                           <div class="card" style="width: 18rem;">
-                            <img src="images/surgery.jpg" class="card-img-top" alt="...">
+                            <img src="images/neurologist.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                              <h5 class="card-title">Card title</h5>
-                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h5 class="card-title">Dr. Shaina</h5>
+                              <p class="card-text">Neurologist</p>
                               <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
                           </div>
@@ -193,6 +193,125 @@
             </div>
         
             <!-- doctor profiles end -->
+
+             <!-- service start -->
+             <div class="col-lg-12">
+              <div class="row">
+                <div class="col-lg-12 text-center">
+                  <h1>Our Services</h1>
+                </div>
+              <div class="col-lg-12 services">
+                <div class="card-group">
+                  <div class="card position-relative">
+                    <img src="images/dental.jpg" class="card-img-top" alt="...">
+                  <div class="overlay position-absolute">
+                    <div class="container h-100">
+                      <div class="d-flex h-100 flex-column justify-content-center">
+                      <h2>Dental Treatment</h2>
+                      <p>Dentistry, also known as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth.Dentistry, also known
+                         as dental medicine and oral medicine, is the branch of medicine focused on the teeth, gums, and mouth.</p>
+                      <div class="inline-block">
+                      <i class="fa-solid fa-arrow-right"></i>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="card position-relative">
+                    <img src="images/baby.jpg" class="card-img-top" alt="...">
+                    <div class="overlay position-absolute">
+                    <div class="container h-100">
+                      <div class="d-flex h-100 flex-column justify-content-center">
+                        
+                      <h2>Baby Healthcare</h2>
+                    
+                      <p>In the hospital, a routine evaluation called the Apgar test is used to identify whether a baby needs urgent medical care. The test scores on five areas, 
+                        including breathing rate and skin coloration. Newborns also receive a vitamin K shot and eye drops.</p>
+                    
+                      <div class="inline-block">
+                      <i class="fa-solid fa-arrow-right"></i>
+                    </div>
+                      </div>
+                      </div>
+                  </div>
+                </div>
+                  <div class="card position-relative">
+                    <img src="images/pregnancy.jpg" class="card-img-top" alt="...">
+                    <div class="overlay position-absolute">
+                      <div class="container h-100">
+                        <div class="d-flex h-100 flex-column justify-content-center">
+                       <h2>Pregnancy Treatment</h2>
+                      <p>Prenatal care is health care that a woman gets while pregnant. Going early and regularly for prenatal care can help moms-to-be — 
+                        and their babies — stay healthy. Regular care lets doctors find and deal with any problems as soon as possible.</p>
+                      <div class="inline-block">
+                      <i class="fa-solid fa-arrow-right"></i>
+                      </div>
+                    </div>
+                    </div>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+              
+              <div class="col-lg-12 services">
+                <div class="card-group">
+                  <div class="card position-relative">
+                    <img src="images/cancer.jpg" class="card-img-top" alt="...">
+                  <div class="overlay position-absolute">
+                    <div class="container h-100">
+                      <div class="d-flex h-100 flex-column justify-content-center">
+                      <h2>Cancer Treatment</h2>
+                      <p>Cancer treatment is the use of surgery, radiation, medications
+                         and other therapies to cure a cancer, shrink a cancer or stop the progression of a cancer.
+                          Many cancer treatments exist. Depending on your particular situation, you may receive one 
+                          treatment or you may receive a combination of treatments.</p>
+                      <div class="inline-block">
+                      <i class="fa-solid fa-arrow-right"></i>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="card position-relative">
+                    <img src="images/heart.jpg" class="card-img-top" alt="...">
+                    <div class="overlay position-absolute">
+                    <div class="container h-100">
+                      <div class="d-flex h-100 flex-column justify-content-center">
+                        
+                      <h2>Heart Surgery</h2>
+                    
+                      <p>Open-heart surgery (also called traditional heart surgery) is when the surgeon cuts the chest open to reach the heart. Because it's difficult to operate on a beating heart, medicines are used to stop the heart.
+                         A heart-lung bypass machine keeps oxygen-rich blood pumping through the body during the surgery.</p>
+                    
+                      <div class="inline-block">
+                      <i class="fa-solid fa-arrow-right"></i>
+                    </div>
+                      </div>
+                      </div>
+                  </div>
+                </div>
+                  <div class="card position-relative">
+                    <img src="images/orthopedic.jpg" class="card-img-top" alt="...">
+                    <div class="overlay position-absolute">
+                      <div class="container h-100">
+                        <div class="d-flex h-100 flex-column justify-content-center">
+                       <h2>Orthopedic</h2>
+                      <p>A person who specializes in orthopedics is known as an orthopedist. Orthopedists use surgical and nonsurgical 
+                        approaches to treat musculoskeletal issues, such as sports injuries, joint pain, and back problems.</p>
+                      <div class="inline-block">
+                      <i class="fa-solid fa-arrow-right"></i>
+                      </div>
+                    </div>
+                    </div>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+              </div>
+            </div>
+            <!-- service end -->
           <!-- footer start -->
             <div class="col-lg-12 footer-parent mt-3">
               <div class="container">
@@ -255,6 +374,7 @@
                 </footer>
               </div>
             </div>
+           
             <!-- footer end -->
     </div>
 </div>
