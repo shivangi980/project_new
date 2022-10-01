@@ -29,15 +29,16 @@
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="images/aboutusbg.jpg" class="d-block w-100 " height="500" alt="...">
+                <img src="images/aboutusbg.jpg" class="d-block w-100 " height="380" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="images/staff.png" class="d-block w-100" height="500" alt="...">
+                <img src="images/staff.png" class="d-block w-100" height="300" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="images/surgery.jpg" class="d-block w-100" height="500" alt="...">
+                <img src="images/surgery.jpg" class="d-block w-100" height="300" alt="...">
             </div>
         </div>
+      </div>
       </div>
       <!-- navigation bar start -->
       <div class="overlay position-absolute"></div>
@@ -90,7 +91,8 @@
         </div>
     <!-- navigation bar end -->
     <!-- about us content start-->
-    <div class="container-fluid position-absolute w-100">
+    <div class="col-lg-12">
+    <div class="container-fluid w-100">
       <div class="row">
         <div class="col-lg-6 text-center">
           <h1 class="heading1">The Best Doctor</h1>
@@ -106,8 +108,7 @@
         </div>
       </div>
     </div>
-    
-    <div class="content col-lg-12 position-absolute">
+    <div class="content col-lg-12">
       <div class="row m-0">
         <div class="col-lg-6 position-relative ">
           <img src="images/content.jpg" class="img-thumbnail w-75 " alt="...">
@@ -123,6 +124,7 @@
         </div>
       </div>
     </div>
+  </div>
         <!-- about us content end -->
     <!-- jquery javascript library -->
     <script src="js/jquery.min.js"></script>  
