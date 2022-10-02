@@ -15,33 +15,28 @@
     <div class="container-fluid m-0">
         <div class="row">
            <div class="col-lg-12   bg-white p-0">
+            <div class="row">
                <div class="container">
                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row justify-content-end p-2">
                            <li><a class="d-flex td-none text-dark align-items-center" href=""><i class="fa-solid fa-user text-main"></i><span class="ms-1">Register</span></a></li>
-                           <li class="ms-3"><a class="d-flex td-none text-dark align-items-center" href=""><i class="fa-solid fa-right-to-bracket text-main"></i><span class="ms-1">Login</span></a></li>
+                           <li class="ms-3"><a class="d-flex td-none text-dark align-items-center" href="login.php"><i class="fa-solid fa-right-to-bracket text-main"></i><span class="ms-1">Login</span></a></li>
                            <li class="ms-3"><a class="d-flex td-none text-dark align-items-center" href=""><i class="fa-solid fa-house-chimney text-main"></i><span class="ms-1">Dashboard</span></a></li>
                          </ul>
+                        </div>
                </div>
            </div>
-        </div>
-    </div>
-    <div class="col-lg-12 position-relative p-0">
+    
+      <!-- navigation bar start -->
+      <div class="col-lg-12 position-relative p-0">
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="images/aboutusbg.jpg" class="d-block w-100 " height="380" alt="...">
+                <img src="images/aboutusbg.jpg" class="d-block w-100 "  alt="...">
               </div>
-              <div class="carousel-item">
-                <img src="images/staff.png" class="d-block w-100" height="300" alt="...">
-              </div>
-              <div class="carousel-item">
-                <img src="images/surgery.jpg" class="d-block w-100" height="300" alt="...">
-            </div>
         </div>
       </div>
-      </div>
-      <!-- navigation bar start -->
-      <div class="overlay position-absolute"></div>
+      
+      <div class="overlay position-absolute p-0"></div>
       <div class="w-100  header p-0 bg-transparent-custom">
       <div class="container">
           <nav class="navbar navbar-expand-lg bg-transparent shadow-lg p-0 b-10">
@@ -89,16 +84,16 @@
             <h1 class="about">About Us</h1>
           </div>
         </div>
+      </div>
     <!-- navigation bar end -->
     <!-- about us content start-->
-    <div class="col-lg-12">
+    <div class="col-lg-12 position-relative">
     <div class="container-fluid w-100">
       <div class="row">
         <div class="col-lg-6 text-center">
           <h1 class="heading1">The Best Doctor</h1>
           <h2 class="heading2">Gives The Least</h2>
           <h3 class="heading2">Medicine</h3>
-          
         </div>
         <div class="col-lg-6 position-relative">
           <img src="images/hospitalbg.jpg" class="img-thumbnail w-75" alt="...">
@@ -125,6 +120,8 @@
       </div>
     </div>
   </div>
+  </div>
+</div>
         <!-- about us content end -->
     <!-- jquery javascript library -->
     <script src="js/jquery.min.js"></script>  
