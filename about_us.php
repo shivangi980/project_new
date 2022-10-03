@@ -88,7 +88,6 @@
     <!-- navigation bar end -->
     <!-- about us content start-->
     <div class="col-lg-12 position-relative">
-    <div class="container-fluid w-100">
       <div class="row">
         <div class="col-lg-6 text-center">
           <h1 class="heading1">The Best Doctor</h1>
@@ -103,7 +102,7 @@
         </div>
       </div>
     </div>
-    <div class="content col-lg-12">
+    <div class=" col-lg-12 position-relative">
       <div class="row m-0">
         <div class="col-lg-6 position-relative ">
           <img src="images/content.jpg" class="img-thumbnail w-75 " alt="...">
@@ -114,12 +113,11 @@
         <div class="col-lg-6 text-center">
           <h4 class="heading3">YOUR PATIENTS AWAIT YOU</h4>
           <h5>Making Healthcare Better Together.</h5>
-          <p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+          <p class="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
             when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
         </div>
       </div>
     </div>
-  </div>
   </div>
 </div>
         <!-- about us content end -->

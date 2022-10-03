@@ -28,12 +28,6 @@
                     <div class="carousel-item active">
                       <img src="images/banner.jpg" class="d-block w-100 " height="500" alt="...">
                     </div>
-                    <div class="carousel-item">
-                      <img src="images/staff.png" class="d-block w-100" height="500" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="images/surgery.jpg" class="d-block w-100" height="500" alt="...">
-                  </div>
               </div>
             </div>
             <div class="overlay position-absolute"></div>
