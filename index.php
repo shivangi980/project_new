@@ -16,7 +16,7 @@
           <div class="col-lg-12   bg-white p-0">
               <div class="container">
                   <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-row justify-content-end p-2">
-                          <li><a class="d-flex td-none text-dark align-items-center" href=""><i class="fa-solid fa-user text-main"></i><span class="ms-1">Register</span></a></li>
+                          <li><a class="d-flex td-none text-dark align-items-center" href="register.php"><i class="fa-solid fa-user text-main"></i><span class="ms-1">Register</span></a></li>
                           <li class="ms-3"><a class="d-flex td-none text-dark align-items-center" href="login.php"><i class="fa-solid fa-right-to-bracket text-main"></i><span class="ms-1">Login</span></a></li>
                           <li class="ms-3"><a class="d-flex td-none text-dark align-items-center" href=""><i class="fa-solid fa-house-chimney text-main"></i><span class="ms-1">Dashboard</span></a></li>
                         </ul>

@@ -11,10 +11,11 @@
 <body>
     <div class="container-fluid m-0 ">
         <div class="row">
-            <img src="images/bg2.jpg" class="d-block w-100 " height="650" alt="">
-            <div class="col-lg-5  bg-main1 position-absolute top-50 start-50 translate-middle">
+            <div class="container">
+            <img src="images/bg.jpg" class="d-block w-100 " height="650" alt="">
+            <div class="col-lg-5  bg-main1 b-3 position-absolute top-50 start-50 translate-middle">
                 <div class="row">
-                    <div class="container text-center text">
+                    <div class="container text-center">
                         <h1>Login Your Account</h1>
                     </div>
                     <div class="container mt-3 d-flex justify-content-center text">
@@ -37,5 +38,13 @@
             </div>
         </div>
     </div>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="slider/js/jquery.flexslider.js"></script>
+
+<script src="https://kit.fontawesome.com/3c556bfbc8.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <script src="js/custom.js"></script>
 </body>
 </html>
